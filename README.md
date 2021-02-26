@@ -8,7 +8,7 @@ At various times I have been:
 
 * a software engineer, architect, and leader (both tech lead and people manager)
 * the founder and organizer of the now defunct [PNWScala](http://pnwscala.org/) conference
-* a conference speaker at OSCON (2010, [2015](https://youtu.be/-LiQCpPj8RM)) & [AWS re:invent 2016](https://youtu.be/7R5FLvr-aBE)
+* a conference speaker at OSCON (2010, [2015](https://youtu.be/7R5FLvr-aBE)) & [AWS re:invent 2016](https://youtu.be/-LiQCpPj8RM)
 * a user group founder & organizer, including [DorkbotPDX](http://dorkbotpdx.org/), [PDXScala](https://www.meetup.com/PDXScala/), and various others
 * a presenter at a variety of user groups, meetups, and company events
 * a proofreader and reviewer for numerous technical books
