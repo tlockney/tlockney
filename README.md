@@ -15,6 +15,6 @@ At various times throughout my career I have been:
 * a conference speaker at OSCON (2010, [2015](https://youtu.be/7R5FLvr-aBE)) & [AWS re:invent 2016](https://youtu.be/-LiQCpPj8RM)
 * a user group founder & organizer, including [DorkbotPDX](http://dorkbotpdx.org/), [PDXScala](https://www.meetup.com/PDXScala/), and various others
 * a presenter at a variety of user groups, meetups, and corporate events
-* a proofreader and reviewer for many technical books
+* technical book proofreader and reviewer
 
 I have more books than I know what to do with and not enough time to read them all. Which is how it should be. I adore dogs, especially my own, and I love watching movies and binging on great TV shows with my wife.
