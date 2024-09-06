@@ -1,6 +1,6 @@
 # About me
 
-I am an Oregon based engineering leader with a long standing obsession with learning and problem solving. I'm most happy when I'm able to work collaboratively with a diverse team, applying our collective experience and problem solving strategies to address real customer and business challenges. I enjoy maintaining a broad view of the software development landscape and lean towards being a generalist, with a significant amount of time spent on backend, distributed, and cloud-based systems.
+I am an Oregon based engineering leader who has a long standing obsession with learning and problem solving. I'm most happy when I'm able to work collaboratively with a diverse team, applying our collective experience and problem solving strategies to address real customer and business challenges. I maintain a broad view of the software development landscape and lean towards being a generalist, with a deep product oriented focus and many years of experience building successful platforms.
 
 I was most recently Engineering Group Lead for the Developer Product Group (DPG). Our scope was the platform and capabilities that enabled external developers to build and extend HubSpot. This was a very wide space, including everything from our external documentation to serverless infrastructure and observability. Our most recent success was adding powerful UI extensibility that allowed developers to build custom UIs within the HubSpot product. I managed over 45 engineers, including 4 staff engineers, 2 managers, and 9 tech leads.
 
